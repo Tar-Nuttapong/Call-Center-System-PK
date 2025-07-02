@@ -32,7 +32,11 @@ export const ChatPageStyle = {
         display: { sm: 'initial' }, width: '100%',
         borderRadius: 'sm', flexShrink: 1, overflow: 'auto', minHeight: '300px', maxHeight: 'calc(100vh - 200px)',
     },
+<<<<<<< HEAD
     BoxSheet2: {
+=======
+       BoxSheet2: {
+>>>>>>> 0cfbd6b90e15e5b89f6fd889f51217d42320c73c
         display: { sm: 'initial' }, width: '100%',
         borderRadius: 'sm', flexShrink: 1, overflow: 'auto'
     },

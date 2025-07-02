@@ -172,7 +172,11 @@ export default function MyCasePage() {
             <CircularProgress />
           </Box>
         ) : (
+<<<<<<< HEAD
           <Sheet variant="outlined" sx={ChatPageStyle.BoxSheet}>
+=======
+          <Sheet variant="outlined" sx={ChatPageStyle.BoxSheet2}>
+>>>>>>> 0cfbd6b90e15e5b89f6fd889f51217d42320c73c
             <Table stickyHeader hoverRow sx={ChatPageStyle.Table}>
               <thead>
                 <tr>
